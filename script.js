@@ -26,7 +26,7 @@ const informacoes = [
   {
     titulo: "Nosso outro site",
     texto:
-      "Neste outro site você pode registrar jogos. Por enquanto ele ainda está cheio de defeitos, porém futuramente será algo bem maior e muito mais completo.",
+      "Neste outro site é uma Wikipedia de jogos, acompanhe o catálogo de jogos e toda semana terá 5 novos jogos nele!",
   },
 ];
 
