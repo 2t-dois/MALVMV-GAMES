@@ -24,9 +24,21 @@ const informacoes = [
   },
 
   {
+    titulo: "Semana 11",
+    texto:
+      "Foi realizado um planejamento de Sprint no Scrum, definindo a equipe, calculando 90 horas disponíveis, criando um Sprint Backlog com 5 histórias e verificando que ele era viável por usar apenas 78 horas. Também foi feita uma simulação de Planning Poker para estimar as tarefas."
+  },
+
+  {
+    titulo: "Semana 12",
+    texto:
+      "Foi analisado o funcionamento do TCP desde a abertura da conexão (3-way handshake) até o controle de congestionamento. Foram identificados os valores de Seq, Ack, Flags e MSS, estudado o ACK cumulativo em caso de erro de checksum, escolhida a estratégia de retransmissão rápida (Fast Retransmit) e analisado o crescimento da janela de congestionamento (slow-start). Por fim, foram revisados os principais conceitos de comunicação e confiabilidade do protocolo TCP."
+  },
+
+  {
     titulo: "Nosso outro site",
     texto:
-      "Neste outro site é uma Wikipedia de jogos, acompanhe o catálogo de jogos e toda semana terá 5 novos jogos nele!",
+      "Neste outro site você pode registrar jogos. Por enquanto ele ainda está cheio de defeitos, porém futuramente será algo bem maior e muito mais completo.",
   },
 ];
 
